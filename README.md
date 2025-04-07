@@ -25,7 +25,8 @@ Data recovery from unallocated space, using forensic tools(Autospy) to extract a
 - Choose a **Case Folder** location.  
 - Click **Next** → Click **Finish**.  
 
-![](./images/a2.png)
+![image](https://github.com/user-attachments/assets/26bea7a9-18fe-4aad-99a0-c4772fb264ec)
+
 
 ### **Add the Virtual Disk as an Evidence Source**  
 - Click **Add Data Source**  → **Select Host**
@@ -38,7 +39,8 @@ Data recovery from unallocated space, using forensic tools(Autospy) to extract a
 
 - Select Disk → **Choose the VHD drive (`Drive1`)**
 
-![](./images/a5.png)
+![image](https://github.com/user-attachments/assets/a88c6d24-f9ea-47a4-bdca-7c0937673d3c)
+
 
 - Click **Next** → Keep default settings → Click **Finish**.  
 - Wait for Autopsy to process the disk.  
@@ -46,14 +48,13 @@ Data recovery from unallocated space, using forensic tools(Autospy) to extract a
 ### **Recover Deleted Files**  
 - Go to **File Views** (left panel).  
 
-![](./images/a6.png)
-
-![](./images/a7.png)
+![image](https://github.com/user-attachments/assets/da97403b-2f0c-49f2-83d7-c9d034cbd97c)
 
 - Click **Deleted Files** → Find your deleted images.  
 - Right-click an image → Click **Extract File**.  
 
-![](./images/a8.png)
+![image](https://github.com/user-attachments/assets/91e991ca-1319-4ec9-bcf2-dd3bac173493)
+
 
 - Select a folder to see the recovered files (e.g., `C:\forensic`).  
 - Image is recovered successfully.
@@ -61,13 +62,19 @@ Data recovery from unallocated space, using forensic tools(Autospy) to extract a
 
 ## Output :
 ### Folder before deleting the files
-![](./images/f1.png)
+![image](https://github.com/user-attachments/assets/b3bf5b17-918b-42d8-b3e1-c5952e638194)
+
 
 ### Folder after deleting the files
-![](./images/a9.png)
+![image](https://github.com/user-attachments/assets/bd827fd2-94e3-4449-911c-0f9a547a4725)
+
 
 ### Folder after extracting the deleted images using autopsy
-![](./images/a10.png)
+
+
+![image](https://github.com/user-attachments/assets/4aa48c63-6bf4-4b96-8acd-e85bf2235f7a)
+
 
 ## Result:
 Successfully extracted the deleted files from unallocated space using the Autospy tool.
+
